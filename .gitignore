@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/
+models/
+*.pt
+*.pth
+*.pkl
+*.npy
+*.parquet
+.env
